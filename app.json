@@ -11,15 +11,15 @@
   "repository": "https://github.com/Greymattersbot/public-forward-bot",
   "env": {
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "25459469": "Get this value from https://my.telegram.org or @UseTGXBot",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "715a42cef2d8ff0d81c5448a16a0cf7b": "Get this value from https://my.telegram.org or @UseTGXBot",
       "value": ""
     },
     "BOT_TOKEN": {
-      "description": "Your bot token from @BotFather",
+      "6074950694:AAEXZXrE-evQhwPI62kvmg0OHyVqa-wpa2Q": "Your bot token from @BotFather",
       "value": ""
     },
     "BOT_USERNAME": {
@@ -32,7 +32,7 @@
       "value": ""
     },
     "DATABASE_URI": {
-      "description": "Get this from cloud.mongodb.com",
+      "mongodb+srv://hogujohijveruleqol:<password>@cluster0.jkgi1j8.mongodb.net/?retryWrites=true&w=majority": "Get this from cloud.mongodb.com",
       "value": ""
     },
     "DATABASE_NAME": {
@@ -49,7 +49,7 @@
       "value": ""
     },
     "SESSION": {
-      "description": "Pyrogram string Session https://t.me/string_session_generator_658_bot",
+      "BQGEewOANxjjQJhkx1TrUKOWAD7J0131xliLrt QZbICdcpPbIJplxdwStdKtVlaLq4E92N-ACONL bseRlgPMjfL_7gY-32_RG0tGwx8hkEOLVBYet6 ZShyzbFwc61Aw1RnT432c3xJszoTh4lnUoONSV yqkfVgAktKM9tJejiFhNvBVgdeFkhhSLMFY0vz bXOAkoNZwk_EsxumP1wqBrlxmLMPCZYiHrJ5mP BRioPYiHLVKAQsYuvQyFVHzwYQpgvBoSG5TMhN kPqyLxGAjdQ6Yc2h8tnHJ80LMZ5PB4b3uS-19k YoKQKLNi0UPHFazg5apIlrk2ccEgk_Qdtt7ZcU etC5bX5AAAAAFqGGQmAQ": "Pyrogram string Session https://t.me/string_session_generator_658_bot",
       "value": ""
     }
   },
